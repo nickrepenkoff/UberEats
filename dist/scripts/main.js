@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".location-btn").click(function(o){$(".mobile-location").toggle()}),$(".search-btn").click(function(o){$(".mobile-search").toggle()}),$(".mobile__address-close").click(function(o){$(".mobile-location, .mobile-search").hide()})});
